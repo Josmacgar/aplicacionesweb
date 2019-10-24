@@ -1,0 +1,33 @@
+h1 {
+  color: red;
+}
+body {
+  background-image: url(bg85.gif)
+}
+img {
+  border-style: solid;
+  border-color: #920505;
+  padding: 12px 12px 12px 12px;
+  margin: 25px 20px 20px 310px;
+}
+p {
+  color: #920505;
+  font-size: 21;
+  margin: 40px 250px 0px 250px;
+  font-family: "Arial"
+}
+span.uno {
+  font-weight: bold;
+}
+span.dos {
+  text-decoration: underline;
+}
+address.piepagina {
+  font-weight: bold;
+  margin-top: 20px;
+}
+p.tres {
+  text-align: left;
+  margin-top: 98px;
+  margin-left: 20em;
+}
