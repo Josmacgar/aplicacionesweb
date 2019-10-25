@@ -1,0 +1,43 @@
+h1 {
+  color: #039059;
+}
+h2 {
+  color: blue;
+}
+a {
+  color: red;
+ }
+body {
+  margin: 60px 100px 100px 350px;
+}
+strong {
+  color: red;
+}
+span.naranja {
+  color: orange;
+}
+span.blue {
+  color: blue;
+}
+span.lila {
+  color: #A20ADF;
+}
+em {
+  color: blue;
+}
+table, tr, th, td {border:1px solid #000; border-collapse:collapse; padding:5px;}
+th.especial{
+   color: orange;
+ }
+ td { color: green; }
+td strong { color: orange; }
+th { color: red; }
+span.italic {
+  font-style: italic;
+}
+caption {
+  color: blue;
+}
+div#adicional p { color: olive; }
+div#adicional a { color: green; }
+div#adicional span#especial { color: fuchsia; }
