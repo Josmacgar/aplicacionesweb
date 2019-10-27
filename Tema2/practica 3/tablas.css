@@ -1,0 +1,40 @@
+tr.primero {
+  background-color: #FB3535;
+  text-align: center;
+  color: white;
+  font-family: "Arial";
+  }
+span.segundo {
+  font-size: 27px;
+  font-weight: bold;
+  padding-top: 95px;
+  }
+span.precio {
+  font-size: 65px;
+  font-weight: bold;
+  padding-top: 80px;
+  }
+table {
+  background-color: white;
+  border-collapse: separate;
+  border-spacing: 20px 0 ;
+  }
+  span.tercero {
+  font-weight: bold;
+  color: #180A0A;
+  font-size: 20px;
+  line-height: 35pt;
+  }
+span.compromiso {
+  line-height: 35pt;
+  }
+button {
+  background-color: #F24E4E;
+  color: white;
+  border: none;
+  padding: 16px 31px;
+  text-align: center;
+    margin-top: 60px;
+  display: inline-block;
+  font-size: 14px;
+  }
