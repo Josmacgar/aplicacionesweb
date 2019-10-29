@@ -1,0 +1,55 @@
+body {
+  background-color: #081C83;
+}
+span.negrita {
+  font-weight: bold;
+  color: white;
+}
+a {
+  color: white;
+  text-decoration: none;
+}
+span.blanco {
+  color: white;
+  font-weight: bold;
+}
+div {
+  color: white;
+  background-image: url(imagenes/nube.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  padding: 50px;
+  margin: 15px;
+}
+div.fondo {
+  background-color: white;
+}
+img.cara {
+  float: right;
+  border-style: solid;
+  border-color: white;
+  border-width: 15px;
+}
+p {
+  font-size: 35px;
+}
+p.primero {
+  text-align: right;
+  font-size: 15px;
+  color: white;
+  margin-right: 20px;
+}
+p.segundo {
+
+}
+button {
+  background-color: #F24E4E;
+  color: white;
+  border: none;
+  padding: 16px 31px;
+  text-align: center;
+  margin-left: 60px;
+  margin-top: 60px;
+  display: inline-block;
+  font-size: 14px;
+  }
