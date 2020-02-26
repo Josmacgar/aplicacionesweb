@@ -1,0 +1,58 @@
+table.primero {
+  background-image: url(fondomar.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  border: 0px solid white;
+  padding: 10px 15px;
+}
+body {
+  margin-left: 15%;
+  margin-right: 15%;
+  background-color: #3899FC
+}
+img.logo {
+  height: 180px;
+
+}
+.principio {
+  width: 450px;
+  height: 300px;
+  margin-left: 250px;
+
+}
+td.segundo {
+  width: 50%;
+}
+span.grande {
+  font-weight: bold;
+  font-size: 30px;
+}
+p.colabora {
+  font-size: 20px;
+}
+.forma {
+  margin-left: 20px;
+}
+h2 {
+  text-align: center;
+  font-size: 45px;
+}
+a.materiales {
+  color: white;
+  text-decoration: none;
+  font-size: 17px;
+  margin-left: 100px;
+}
+a.concurso {
+  color: white;
+  text-decoration: none;
+  font-size: 17px;
+  margin-left: 200px;
+}
+a.tecnica {
+  color: white;
+  text-decoration: none;
+  font-size: 17px;
+  margin-left: 300px;
+}

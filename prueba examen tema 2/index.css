@@ -1,0 +1,74 @@
+body {
+  background-color: #00245e;
+  margin-left: 25%;
+  margin-right: 25%;
+}
+
+table.primero {
+  background-image: url(fondo.jpg);
+  background-repeat: no-repeat;
+  width: 100%;
+  padding: 10px 15px;
+  background-size: cover;
+}
+p.links {
+  text-align: right;
+  margin: 5px 2px;
+  color: white;
+  font-size: 13px;
+}
+p.links a {
+  color: white;
+  text-decoration: none;
+}
+span.unbold {
+  font-weight: normal;
+}
+h1 {
+  color: white;
+}
+span.blue {
+  color: blue;
+}
+td.center {
+  font-size: 12px;
+  text-align: center;
+  font-weight: bold;
+}
+.perfil {
+  width: 125px;
+  border: 8px solid white;
+  height: 180px;
+  width: 30%x;
+}
+.logo {
+  height: 30px;
+  padding: 0.5px;
+}
+.work {
+  background-color: blue;
+  color: white;
+  border-color: #000080;
+  padding: 5px;
+  padding-top: 0px;
+  font-size: 20px;
+}
+.senior {
+  color: red;
+  font-size: 19px;
+}
+.degrees {
+  color: black;
+  font-size: 16px;
+}
+.buttom {
+  color: white;
+  padding: 4px;
+  border: solid 0.5px blue;
+  background-color: blue;
+  font-size: 10px;
+  margin-left: 80px;
+}
+.tabla {
+  background-color: white;
+}

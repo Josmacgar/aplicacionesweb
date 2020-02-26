@@ -1,0 +1,25 @@
+div.border {
+  border-style: solid;
+  border-width: 1px;
+  margin-bottom: 5px;
+}
+article.primero {
+  border-style: solid;
+  border-width: 1px;
+  margin: 10px;
+}
+h1, h2, p {
+  margin-left: 5px;
+}
+article.enlace {
+  border-style: solid;
+  border-width: 1px;
+  margin: 10px;
+  padding: 7px;
+}
+div.segundo {
+  border-style: solid;
+  border-width: 1px;
+  margin-bottom: 5px;
+  padding: 10px;
+}
