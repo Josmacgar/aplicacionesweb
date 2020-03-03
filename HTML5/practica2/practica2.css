@@ -1,0 +1,37 @@
+section.border {
+  border-style: solid;
+  border-width: 1px;
+  margin-bottom: 5px;
+}
+article.primero {
+  border-style: solid;
+  border-width: 1px;
+  margin: 10px;
+}
+h1, h2, p {
+  margin-left: 5px;
+}
+article.enlace {
+  border-style: solid;
+  border-width: 1px;
+  margin-bottom: 5px;
+  padding: 7px;
+}
+section.segundo {
+  border-style: solid;
+  border-width: 1px;
+  padding: 10px;
+}
+section.fondo {
+  border-style: solid;
+  border-width: 1px;
+  margin-bottom: 5px;
+  background-color: #9C9796;
+  color: white;
+}
+section.ultimo {
+  border-style: solid;
+  border-width: 1px;
+  padding: 10px;
+  background-color: #9C9796;
+}
